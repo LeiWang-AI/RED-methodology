@@ -6,7 +6,7 @@ RED audits plans, systems, and research methods by recursively decomposing them 
 
 ## Paper
 
-📄 **[paper.pdf](paper.pdf)** (arXiv link coming soon)
+📄 **[paper.pdf](paper.pdf)** 
 
 > *Recursive Execution Decomposition (RED): A Verification-Gated Protocol for Surfacing Hidden Assumptions and Missing Fundamentals*
 
